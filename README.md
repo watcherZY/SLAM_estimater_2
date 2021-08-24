@@ -1,3 +1,4 @@
+# SLAM_estimater_2
 版本2：
 实现了bias_acc，bias_gyro的估计功能，并且把轨迹进行了输出。
 后端优化和原版的没有区别
@@ -19,6 +20,5 @@ vins_result_no_loop的输出格式：
 使用方法：
 source devel/setup.bash
 roslaunch vi_slam run.launch
-
 
 
